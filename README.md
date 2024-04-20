@@ -1,1 +1,2 @@
-In reactjs, i learned to create pagination and search bar.
+Install dependeices using npm install
+Start project using npm run start.
